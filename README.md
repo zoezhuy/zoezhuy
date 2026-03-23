@@ -75,9 +75,9 @@ Python · JavaScript · HTML/CSS · Chrome Extension Dev · Vibe Coding (Codex) 
 
 ## Contact 联系方式
 
-Email: zz3378@tc.columbia.edu
-Phone: +1 3477328050 / +86 13336816750
-GitHub: https://github.com/zoezhuy
+Email: zz3378@tc.columbia.edu  
+Phone: +1 3477328050 / +86 13336816750  
+GitHub: https://github.com/zoezhuy  
 
 ---
 
