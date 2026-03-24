@@ -62,8 +62,8 @@ Built a 6-dimension behavioral compatibility assessment tool with 0–100 scorin
 基于 6 维加权 Likert 模型的室友匹配测评工具，通过 20 道生活习惯问题
 生成 0–100 匹配分 + 动物拟人 Persona，将主观匹配问题转化为可解释结构化反馈。
 
-- **Emotional Support Companion — AI 情感支持对话产品**  
-🔗 Prototype: [https://sync-lair-09050008.figma.site](https://emotion-support.figma.site)  
+- **Emotional Support Companion — AI 情感支持对话产品**    
+🔗 Prototype: [https://sync-lair-09050008.figma.site](https://emotion-support.figma.site)    
 A Next.js web app exploring privacy-first AI emotional support through conversational interaction, emotion recognition, and mood trend visualization.
 
 基于 Next.js 开发的 AI 情感支持应用，探索隐私优先的对话式 AI 产品设计，包含情绪识别、分析与 7 天趋势可视化。
