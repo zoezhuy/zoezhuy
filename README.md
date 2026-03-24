@@ -56,21 +56,17 @@ Built independently using Vibe Coding (Codex + Figma to Code). Implemented LLM-b
 基于 Vibe Coding（Codex + Figma to Code）独立开发，通过 LLM 字段智能匹配实现多平台简历一键自动填表。技术栈：JavaScript / HTML / CSS / LLM API / Prompt Engineering / Chrome Extension 开发。
 
 - **Roommate Harmony Test — AI 室友匹配测评工具**
-🔗 Live Demo: https://roomate.figma.site
-Built a 6-dimension behavioral compatibility assessment tool with 
-0–100 scoring + Persona mapping. Users can discover their "roommate 
-spirit animal" through 20 lifestyle questions.
+🔗 Live Demo: https://roomate.figma.site  
+Built a 6-dimension behavioral compatibility assessment tool with 0–100 scoring + Persona mapping. Users can discover their "roommate spirit animal" through 20 lifestyle questions.
 
 基于 6 维加权 Likert 模型的室友匹配测评工具，通过 20 道生活习惯问题
 生成 0–100 匹配分 + 动物拟人 Persona，将主观匹配问题转化为可解释结构化反馈。
 
 - **Emotional Support Companion — AI 情感支持对话产品**  
 🔗 Prototype: [https://sync-lair-09050008.figma.site](https://emotion-support.figma.site)  
-A Next.js web app exploring privacy-first AI emotional support through 
-conversational interaction, emotion recognition, and mood trend visualization.
+A Next.js web app exploring privacy-first AI emotional support through conversational interaction, emotion recognition, and mood trend visualization.
 
-基于 Next.js 开发的 AI 情感支持应用，探索隐私优先的对话式 AI 产品设计，
-包含情绪识别、分析与 7 天趋势可视化。
+基于 Next.js 开发的 AI 情感支持应用，探索隐私优先的对话式 AI 产品设计，包含情绪识别、分析与 7 天趋势可视化。
 
 ---
 
