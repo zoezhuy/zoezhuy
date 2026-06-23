@@ -1,99 +1,84 @@
-# Zoe Zhu 朱颖
+# Zoe Zhu
 
 **AI Product Manager · LLM / RAG / Prompt Engineering · HCI · Conversational AI · UX Research**
-**AI 产品经理方向 · 大模型应用 · 人机交互 · 对话式AI · 用户研究**
 
 ---
 
-## About Me 关于我
+## About Me
 
-English:
-Hi, I'm Zoe Zhu — an aspiring AI Product Manager with a background in HCI, instructional design, and AI system evaluation. I combine technology, research, and product thinking to build intelligent experiences that are human-centered and grounded in real user needs.
+Hi, I'm Zoe Zhu, an aspiring AI Product Manager with a background in human-computer interaction, instructional design, and AI system evaluation. I combine technology, research, and product thinking to build intelligent experiences that are human-centered and grounded in real user needs.
 
-Currently pursuing my M.A. at Teachers College, Columbia University (GPA 4.0/4.0, Top 1%), focusing on AI Learning Systems, Human-Computer Interaction, and Organizational Learning.
+I am currently pursuing my M.A. at Teachers College, Columbia University, with a GPA of 4.0/4.0 and a focus on AI learning systems, human-computer interaction, and organizational learning.
 
-My experience spans AI product evaluation (LiLo NLP chatbot @ UCI daplab), L&D × AI tool assessment (United Nations), and independent development (Haoyun AI Chrome Extension — built with Vibe Coding / Codex + LLM API).
-My product experience includes AI evaluation frameworks, user research synthesis, and data-driven iteration — with hands-on LLM application development experience.
+My experience spans AI product evaluation for the LiLo NLP chatbot at UCI daplab, AI tool assessment for learning and development at the United Nations, and independent AI product development, including Haoyun AI, a Chrome extension built with Codex, Figma-to-code workflows, and LLM APIs.
 
-
-中文：
-你好，我是 Zoe Zhu 朱颖 —— 一名 AI 产品经理方向的求职者，背景横跨人机交互（HCI）、教学设计与 AI 系统评测。我希望将技术理解、用户研究与产品思维结合，设计更有温度、更贴近真实需求的 AI 产品体验。
-
-目前就读于哥伦比亚大学教师学院（GPA 4.0，Top 1%），研究方向为 AI 学习系统、人机交互与组织学习。
-
-曾参与 UCI daplab LiLo NLP 对话机器人的 AI 产品评测工作，在联合国完成 AI 工具选型评估，并独立开发了基于 LLM 的简历自动填写 Chrome 插件（好运 AI）。
-
-我的产品经验涵盖 AI 评测体系设计、用户研究整合与数据驱动迭代，并有 LLM 应用独立开发经验。
+My product experience includes AI evaluation frameworks, user research synthesis, data-driven iteration, and hands-on LLM application development.
 
 ---
 
-## Currently Exploring 当前关注
+## Currently Exploring
 
-AI Product Management · AI Product Evaluation
-LLM / RAG / Prompt Engineering · Conversational AI
-Human-Computer Interaction (HCI) · Human-AI Interaction
-UX Research · User-Centered Design
+AI Product Management · AI Product Evaluation  
+LLM / RAG / Prompt Engineering · Conversational AI  
+Human-Computer Interaction · Human-AI Interaction  
+UX Research · User-Centered Design  
 Instructional Design · AI Learning Systems
 
-AI 产品经理 · AI 产品评测体系
-大模型应用（LLM / RAG / Prompt Engineering）· 对话式 AI
-人机交互（HCI）· 人机智能交互
-用户研究 · 以用户为中心的设计
-教学设计 · AI 学习系统
-
 ---
 
-## Featured Projects 精选项目
+## Featured Projects
 
-- **LiLo — NLP-Based AI College Advising Chatbot (UCI daplab, Dr. June Ahn Lab)**  
-Participated in AI product evaluation and UX research for LiLo, a conversational chatbot built on NLP / GPT-2 to help high school graduates navigate college enrollment (partnered with NYU / CUNY, ~20,000 students). Responsible for user research data collection, Excel-based analysis, and Figma UI/UX optimization.
+### LiLo: NLP-Based AI College Advising Chatbot
 
-参与 LiLo 的 AI 产品评测与用户研究工作。LiLo 基于 NLP / GPT-2 构建，帮助高中毕业生完成大学入学流程，与 NYU / CUNY 合作覆盖近 2 万名学生。负责用户研究数据收集与 Excel 分析、Figma 界面优化。
+**UCI daplab, Dr. June Ahn Lab**
 
-- **Haoyun AI — AI-Powered Resume Auto-Fill Chrome Extension**  
-🔗 Live Demo: https://haoyun.figma.site  
-Built independently using Vibe Coding (Codex + Figma to Code). Implemented LLM-based field matching to auto-fill resume forms across LinkedIn, Zhaopin, and BOSS Zhipin. Stack: JavaScript / HTML / CSS / LLM API / Prompt Engineering / Chrome Extension Dev.
+Participated in AI product evaluation and UX research for LiLo, a conversational chatbot built with NLP and GPT-2 to help high school graduates navigate the college enrollment process. The project partnered with NYU and CUNY and supported approximately 20,000 students.
 
-基于 Vibe Coding（Codex + Figma to Code）独立开发，通过 LLM 字段智能匹配实现多平台简历一键自动填表。技术栈：JavaScript / HTML / CSS / LLM API / Prompt Engineering / Chrome Extension 开发。
+My work included user research data collection, Excel-based analysis, and Figma UI/UX optimization.
 
-- **Roommate Harmony Test — AI 室友匹配测评工具**  
-🔗 Live Demo: https://roomate.figma.site  
-Built a 6-dimension behavioral compatibility assessment tool with 0–100 scoring + Persona mapping. Users can discover their "roommate spirit animal" through 20 lifestyle questions.
+### Haoyun AI: AI-Powered Resume Auto-Fill Chrome Extension
 
-基于 6 维加权 Likert 模型的室友匹配测评工具，通过 20 道生活习惯问题
-生成 0–100 匹配分 + 动物拟人 Persona，将主观匹配问题转化为可解释结构化反馈。
+**Live Demo:** https://haoyun.figma.site
 
-- **Emotional Support Companion — AI 情感支持对话产品**      
-🔗 Prototype: https://emotion-support.figma.site      
+Built independently using Codex, Figma-to-code workflows, and LLM APIs. The extension uses LLM-based field matching to auto-fill resume forms across LinkedIn, Zhaopin, and BOSS Zhipin.
+
+**Stack:** JavaScript · HTML · CSS · LLM API · Prompt Engineering · Chrome Extension Development
+
+### Roommate Harmony Test: AI Roommate Compatibility Assessment
+
+**Live Demo:** https://roomate.figma.site
+
+Built a 6-dimension behavioral compatibility assessment tool with 0-100 scoring and persona mapping. Users answer 20 lifestyle questions and receive structured, explainable compatibility feedback.
+
+### Emotional Support Companion: AI Emotional Support Product
+
+**Prototype:** https://emotion-support.figma.site
+
 A Next.js web app exploring privacy-first AI emotional support through conversational interaction, emotion recognition, and mood trend visualization.
 
-基于 Next.js 开发的 AI 情感支持应用，探索隐私优先的对话式 AI 产品设计，包含情绪识别、分析与 7 天趋势可视化。
-
 ---
 
-**Tools & Skills 工具与技能**
+## Tools & Skills
 
-**AI & Product / AI 与产品：**
+**AI & Product:**  
 AI Product Evaluation · Prompt Engineering · LLM / RAG / Token · Conversational AI · User Research · Needs Analysis · Competitive Analysis · Data-Driven Decision Making · Product Thinking
 
-**Design & Research / 设计与研究：**
+**Design & Research:**  
 Figma · UX Design · Interaction Design · Conversational UX · Prototyping · Instructional Design
 
-**Technical / 技术：**
-Python · JavaScript · HTML/CSS · Chrome Extension Dev · Vibe Coding (Codex) · LLM API · Excel (Pivot / VLOOKUP) · Google Workspace · Gradio · LMS Platforms
+**Technical:**  
+Python · JavaScript · HTML/CSS · Chrome Extension Development · Vibe Coding with Codex · LLM API · Excel Pivot Tables · VLOOKUP · Google Workspace · Gradio · LMS Platforms
 
 ---
 
-## Contact 联系方式
+## Contact
 
 Email: zz3378@tc.columbia.edu  
 Phone: +1 3477328050 / +86 13336816750  
-GitHub: https://github.com/zoezhuy  
+GitHub: https://github.com/zoezhuy
 
 ---
 
-## Notes 说明
+## Notes
 
-This GitHub documents my projects and explorations at the intersection of AI product thinking, HCI, LLM applications, and user-centered design. 
-
-这个 GitHub 主要用于整理和展示我在 AI 产品思维、人机交互、大模型应用与用户中心设计交叉领域中的项目与探索。
+This GitHub profile documents my projects and explorations at the intersection of AI product thinking, human-computer interaction, LLM applications, and user-centered design.
