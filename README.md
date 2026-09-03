@@ -1,84 +1,74 @@
-# Zoe Zhu
+# Zoe Zhu | 朱颖
 
-**AI Product Manager · LLM / RAG / Prompt Engineering · HCI · Conversational AI · UX Research**
+**AI + HR Product Builder**<br>
+Recruiting AI · People Analytics · HR Digitalization · Responsible AI
 
----
+I combine hands-on recruiting and HRBP experience with AI product design and front-end prototyping. My work focuses on turning recruiting, talent-management, and workforce-data problems into explainable, human-in-the-loop products.
 
-## About Me
+I am currently pursuing an M.A. in Instructional Technology and Media at Teachers College, Columbia University, with a 4.0/4.0 GPA. My experience spans global technical recruiting, HR business partnering, AI enablement, product evaluation, and independent product development.
 
-Hi, I'm Zoe Zhu, an aspiring AI Product Manager with a background in human-computer interaction, instructional design, and AI system evaluation. I combine technology, research, and product thinking to build intelligent experiences that are human-centered and grounded in real user needs.
+## What I Build
 
-I am currently pursuing my M.A. at Teachers College, Columbia University, with a GPA of 4.0/4.0 and a focus on AI learning systems, human-computer interaction, and organizational learning.
+- **Recruiting AI:** tools that structure recruiting conversations, surface evidence, and support better follow-up decisions;
+- **People Analytics:** dashboards that turn fragmented workforce data into usable organizational and talent insights;
+- **HR Workflow Automation:** products that reduce repetitive work while preserving human review and control;
+- **Responsible AI:** transparent prototypes that show evidence, uncertainty, privacy boundaries, and known limitations.
 
-My experience spans AI product evaluation for the LiLo NLP chatbot at UCI daplab, AI tool assessment for learning and development at the United Nations, and independent AI product development, including Haoyun AI, a Chrome extension built with Codex, Figma-to-code workflows, and LLM APIs.
+## Featured AI + HR Projects
 
-My product experience includes AI evaluation frameworks, user research synthesis, data-driven iteration, and hands-on LLM application development.
+### 1. [Signal Copilot](https://github.com/zoezhuy/signal-copilot)
 
----
+A bilingual recruiting communication analysis prototype for job seekers and recruiting teams. It converts interview and offer-stage conversations into positive signals, risk signals, source-text evidence, evidence coverage, and actionable follow-up suggestions.
 
-## Currently Exploring
+**What it demonstrates:** recruiting-domain knowledge · problem definition · explainable analysis · responsible AI · React/TypeScript · testing and deployment<br>
+**Live demo:** https://zoezhuy.github.io/signal-copilot/
 
-AI Product Management · AI Product Evaluation  
-LLM / RAG / Prompt Engineering · Conversational AI  
-Human-Computer Interaction · Human-AI Interaction  
-UX Research · User-Centered Design  
-Instructional Design · AI Learning Systems
+### 2. [HR Talent Diagnosis Dashboard](https://github.com/zoezhuy/hr-talent-diagnosis-dashboard)
 
----
+A fully anonymized portfolio reconstruction of an HR talent-diagnosis dashboard. It covers organizational diagnostics, leadership pipelines, nine-box calibration, expert and high-potential talent, early-career development, and individual talent profiles.
 
-## Featured Projects
+**What it demonstrates:** HRBP workflows · people analytics · metric productization · interactive dashboards · privacy-aware portfolio documentation<br>
+**Live demo:** https://zoezhuy.github.io/hr-talent-diagnosis-dashboard/
 
-### LiLo: NLP-Based AI College Advising Chatbot
+### 3. [Haoyun AI](https://github.com/zoezhuy/haoyun-app)
 
-**UCI daplab, Dr. June Ahn Lab**
+A local-first resume parsing and job-application autofill MVP. The product combines LLM-based resume structuring with heuristic bilingual form-field matching, browser-local storage, and user-controlled autofill.
 
-Participated in AI product evaluation and UX research for LiLo, a conversational chatbot built with NLP and GPT-2 to help high school graduates navigate the college enrollment process. The project partnered with NYU and CUNY and supported approximately 20,000 students.
+**What it demonstrates:** end-to-end product ownership · LLM integration · browser-extension development · recruiting workflow analysis · privacy and user control<br>
+**Web demo:** https://zoezhuy.github.io/haoyun-app/ · **Extension source:** https://github.com/zoezhuy/haoyun-extension
 
-My work included user research data collection, Excel-based analysis, and Figma UI/UX optimization.
+## Earlier AI Product Research
 
-### Haoyun AI: AI-Powered Resume Auto-Fill Chrome Extension
+### [Lilo Conversational AI Evaluation](https://github.com/zoezhuy/lilo-chatbot)
 
-**Live Demo:** https://haoyun.figma.site
+A de-identified portfolio case study of conversational AI product evaluation in a college-enrollment support context. The work examines user tasks, failure modes, conversation design, trust, escalation, and the transition from answering questions to helping users take action.
 
-Built independently using Codex, Figma-to-code workflows, and LLM APIs. The extension uses LLM-based field matching to auto-fill resume forms across LinkedIn, Zhaopin, and BOSS Zhipin.
+## Experience Lens
 
-**Stack:** JavaScript · HTML · CSS · LLM API · Prompt Engineering · Chrome Extension Development
+My product perspective is grounded in real HR work:
 
-### Roommate Harmony Test: AI Roommate Compatibility Assessment
+- global technical recruiting and candidate communication;
+- active sourcing, funnel tracking, and talent mapping;
+- HRBP support, talent reviews, leadership pipelines, and organizational diagnostics;
+- AI tool evaluation, enablement materials, and workflow redesign;
+- user research, structured interviews, root-cause analysis, and product iteration.
 
-**Live Demo:** https://roomate.figma.site
+## Tools
 
-Built a 6-dimension behavioral compatibility assessment tool with 0-100 scoring and persona mapping. Users answer 20 lifestyle questions and receive structured, explainable compatibility feedback.
+**AI and product:** LLM applications · Prompt Engineering · AI product evaluation · requirements analysis · user research · product experimentation<br>
+**Data:** Excel · SQL · Google Sheets · dashboard and metric design · root-cause analysis<br>
+**Design and development:** Figma · React · TypeScript · JavaScript · Python · Chrome extensions · GitHub Actions<br>
+**Communication:** bilingual Chinese/English · structured interviews · cross-functional collaboration
 
-### Emotional Support Companion: AI Emotional Support Product
+## Product Principles
 
-**Prototype:** https://emotion-support.figma.site
-
-A Next.js web app exploring privacy-first AI emotional support through conversational interaction, emotion recognition, and mood trend visualization.
-
----
-
-## Tools & Skills
-
-**AI & Product:**  
-AI Product Evaluation · Prompt Engineering · LLM / RAG / Token · Conversational AI · User Research · Needs Analysis · Competitive Analysis · Data-Driven Decision Making · Product Thinking
-
-**Design & Research:**  
-Figma · UX Design · Interaction Design · Conversational UX · Prototyping · Instructional Design
-
-**Technical:**  
-Python · JavaScript · HTML/CSS · Chrome Extension Development · Vibe Coding with Codex · LLM API · Excel Pivot Tables · VLOOKUP · Google Workspace · Gradio · LMS Platforms
-
----
+1. Start with a real user and workflow problem, not an AI feature.
+2. Separate implemented functionality from prototypes and future plans.
+3. Show evidence and uncertainty instead of false precision.
+4. Keep consequential HR decisions under meaningful human review.
+5. Protect candidate and employee data by design.
 
 ## Contact
 
-Email: zz3378@tc.columbia.edu  
-Phone: +1 3477328050 / +86 13336816750  
-GitHub: https://github.com/zoezhuy
-
----
-
-## Notes
-
-This GitHub profile documents my projects and explorations at the intersection of AI product thinking, human-computer interaction, LLM applications, and user-centered design.
+- Email: zz3378@tc.columbia.edu
+- GitHub: https://github.com/zoezhuy
