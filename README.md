@@ -1,7 +1,8 @@
 # Zoe Zhu | 朱颖
 
 **AI + HR Product Builder**<br>
-Recruiting AI · People Analytics · HR Digitalization · Responsible AI
+Recruiting AI · People Analytics · HR Digitalization · Responsible AI<br>
+**AI + HR 产品构建者**｜招聘智能 · 人才分析 · 人力资源数字化 · 负责任人工智能
 
 I combine hands-on recruiting and HRBP experience with AI product design and front-end prototyping. My work focuses on turning recruiting, talent-management, and workforce-data problems into explainable, human-in-the-loop products.
 
@@ -41,7 +42,7 @@ A local-first resume parsing and job-application autofill MVP. The product combi
 
 ### [Lilo Conversational AI Evaluation](https://github.com/zoezhuy/lilo-chatbot)
 
-A de-identified portfolio case study of conversational AI product evaluation in a college-enrollment support context. The work examines user tasks, failure modes, conversation design, trust, escalation, and the transition from answering questions to helping users take action.
+Scenario-based evaluation, failure analysis, UX research, and product recommendations for an AI college-advising chatbot. The public portfolio reconstruction includes a 36-scenario test design, failure taxonomy, RCA template, and de-identified evidence artifacts.
 
 ## Experience Lens
 
